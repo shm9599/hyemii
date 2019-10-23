@@ -2,6 +2,6 @@
 
 int main (void)
 [ 
-printf;
+printf("123");
 exit(-1);
 }

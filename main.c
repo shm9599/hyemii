@@ -2,5 +2,6 @@
 
 int main (void)
 [ 
-printf()
+printf;
+exit(-1);
 }

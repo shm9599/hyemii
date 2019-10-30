@@ -12,3 +12,5 @@ final.elf : 1.o 2.o 3.o main.o
 
 main.o : main.c
 	gcc -c main.c
+
+

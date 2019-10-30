@@ -3,5 +3,5 @@
 int printMyName1(void)
 {
     printf("my name is [kimhakjung]\n");
-retrun 1;
+return 1;
 }

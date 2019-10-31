@@ -1,6 +1,7 @@
-#include “myProject.h"
-int printMyName1(void) //1~4중 하나. 파일이름에 맞게 할 것
+#include <stdio.h>
+#include "myProject.h"
+int printMyName1(void)
 {
-printf (“my name is [hakjungg]\n”); //자기 이름
+    printf("my name is [kimhakjung]\n");
 return 1;
 }
